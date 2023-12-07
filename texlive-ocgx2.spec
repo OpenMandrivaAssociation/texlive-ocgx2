@@ -1,6 +1,6 @@
 Name:		texlive-ocgx2
-Version:	64048
-Release:	2
+Version:	65292
+Release:	1
 Summary:	Drop-in replacement for 'ocgx' and 'ocg-p'
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ocgx2
