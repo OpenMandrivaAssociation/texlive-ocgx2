@@ -1,5 +1,5 @@
 Name:		texlive-ocgx2
-Version:	65292
+Version:	70696
 Release:	1
 Summary:	Drop-in replacement for 'ocgx' and 'ocg-p'
 Group:		Publishing
