@@ -3,7 +3,7 @@ Version:	72300
 Release:	1
 Summary:	Drop-in replacement for 'ocgx' and 'ocg-p'
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ocgx2
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ocgx2
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ocgx2.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ocgx2.doc.r%{version}.tar.xz
